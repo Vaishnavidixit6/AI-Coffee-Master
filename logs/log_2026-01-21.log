@@ -1,0 +1,12 @@
+2026-01-21 15:57:27,567 - INFO - CONFIG INITIALIZED
+2026-01-21 15:57:27,575 - INFO - TAVILY TOOL ALL SET
+2026-01-21 15:57:27,871 - INFO - SERPER TOOL ALL SET
+2026-01-21 15:57:36,971 - INFO - AGENT CREATED
+2026-01-21 15:58:11,861 - INFO - CoffeePlanner initialized
+2026-01-21 15:58:12,600 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 15:58:16,440 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 15:58:16,448 - INFO - COFFEE RECIPE GENERATED
+2026-01-21 22:09:36,093 - INFO - CoffeePlanner initialized
+2026-01-21 22:09:36,955 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 22:09:44,647 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 22:09:44,659 - INFO - COFFEE RECIPE GENERATED
