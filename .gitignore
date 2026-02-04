@@ -9,9 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
-
+COFFEE_MASTER.egg-info
 
 .env
 env
 
-COFFEE_MASTER.egg-info
